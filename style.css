@@ -1,0 +1,54 @@
+.Titulo {
+    text-align: center;
+}
+
+.post {
+    background-color:rgba(25, 31, 52, 0.2) ;
+   
+    width: 50%;
+    margin: auto;
+}
+
+.post-header {
+justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+img {
+
+    width: 100%;
+}
+
+p {
+    padding: 15px;
+}
+
+.post-footer {
+
+
+}
+
+.iconos {
+font-size: 50px;
+    display: flex;
+    justify-content: left;
+    gap: 30px;
+    color: black;
+  
+}
+
+.like {
+    color: black;
+}
+
+.compartir {
+
+    color: black;
+
+}
+
+.comentario {
+
+    color: black;
+}
